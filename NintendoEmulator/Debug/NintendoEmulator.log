@@ -1,0 +1,5 @@
+﻿  olcNes_PPU_Foregrounds.cpp
+C:\Users\agupt_vnghs0l\OneDrive\Desktop\NintendoEmulator\NintendoEmulator\olc2A03.h(158,13): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\agupt_vnghs0l\OneDrive\Desktop\NintendoEmulator\NintendoEmulator\olc2A03.h(166,21): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\agupt_vnghs0l\OneDrive\Desktop\NintendoEmulator\NintendoEmulator\olc2A03.h(167,23): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  NintendoEmulator.vcxproj -> C:\Users\agupt_vnghs0l\OneDrive\Desktop\NintendoEmulator\Debug\NintendoEmulator.exe
